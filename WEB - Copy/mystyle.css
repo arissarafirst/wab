@@ -1,0 +1,42 @@
+h1{
+
+    color: rgb(231, 136, 224);
+}
+h2{
+    color: rgb(96, 194, 255);
+}
+.textgree {
+    color: rgb(60, 255, 0);
+  }
+  .textblue{
+
+    color: rgb(9, 4, 255);
+  }
+#textpink {
+    color: pink;
+
+}
+div {
+    width:300px;
+    margin:auto;
+    background-color: rgb(55, 0, 255);
+}
+.div-bg1{
+    background-color: rgb(129, 255, 152);
+}
+.div-bg2{
+    background-color: rgb(233, 0, 250);
+}
+
+.div-bg3{
+    background-color: rgb(233, 0, 250);
+}
+
+div.mycontainer {
+    width:100%;
+    overflow:auto;
+  }
+  div.mycontai div {
+    width:33%;  
+    float:left;
+  }
